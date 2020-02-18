@@ -1,1 +1,1 @@
-All python code which iss doen while Training.
+All python code which is done while Training.
